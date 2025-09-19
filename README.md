@@ -3,7 +3,8 @@
 Projeto rápido de portfólio desenvolvido por **Luana Ferreira de Sousa (Lua)**.  
 Feito inteiramente no **Google Colab**, utilizando **Python, Pandas e Matplotlib**. 🚀  
 
-🔗 GitHub: [github.com/lua008ferreira](https://github.com/lua008ferreira)  
+🔗 GitHub:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008ferreira/Python-Analise-CVS/blob/main/Projeto_Analise_CSV_Colab.ipynb)
+
 
 ---
 
@@ -48,4 +49,4 @@ Este projeto foi criado para compor meu portfólio em **Data Analysis com Python
 Ele mostra na prática como carregar dados, gerar métricas e criar visualizações simples.  
 
 ---
-✍️ Desenvolvido por [Luana Ferreira de Souza (Lua)](https://github.com/lua008ferreira)
+✍️ Desenvolvido por [Luana Ferreira de Sousa (Lua)](https://github.com/lua008ferreira)
