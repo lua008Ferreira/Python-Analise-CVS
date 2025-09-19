@@ -1,0 +1,23 @@
+Registros: 120
+Itens vendidos (total): 679
+Receita total: R$18095.30
+Ticket médio por venda: R$150.79
+
+Top 5 produtos por receita:
+    produto  receita
+    Mochila  8054.61
+     Estojo  3560.39
+    Caderno  1910.43
+     Agenda  1877.59
+Marca-texto  1139.44
+
+Receita por mês:
+      data  receita
+2025-01-31  2413.57
+2025-02-28  2206.81
+2025-03-31  1716.70
+2025-04-30  1929.23
+2025-05-31  2609.23
+2025-06-30  2485.06
+2025-07-31  1389.95
+2025-08-31  3344.75
