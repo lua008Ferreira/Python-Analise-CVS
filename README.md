@@ -1,6 +1,6 @@
 # 🐍📊 Analisador de Dados CSV (Python + Google Colab)
 
-Projeto rápido de portfólio desenvolvido por **Luana Ferreira de Souza (Lua)**.  
+Projeto rápido de portfólio desenvolvido por **Luana Ferreira de Sousa (Lua)**.  
 Feito inteiramente no **Google Colab**, utilizando **Python, Pandas e Matplotlib**. 🚀  
 
 🔗 GitHub: [github.com/lua008ferreira](https://github.com/lua008ferreira)  
