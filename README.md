@@ -8,13 +8,6 @@ Feito inteiramente no **Google Colab**, utilizando **Python, Pandas e Matplotlib
 
 ---
 
-## ▶️ Acesse no Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lua008ferreira/Python-Analisar-CVS/blob/main/Projeto_Analise_CSV_Colab.ipynb)
-
-*(Clique no botão acima para abrir o notebook direto no Google Colab)*
-
----
-
 ## ✨ O que o projeto faz
 - Lê dados de vendas a partir de um arquivo CSV (ou gera exemplo automático).
 - Cria coluna de **receita** (`quantidade × preco_unitario`).
